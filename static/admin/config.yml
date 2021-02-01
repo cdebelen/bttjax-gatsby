@@ -131,6 +131,7 @@ collections:
               default: "instructors-page"
             }
           - { label: "Title", name: "title", widget: "string" }
+          - { label: Image, name: image, widget: image }
           - { label: "Body", name: "body", widget: "markdown" }
 
       - file: "src/pages/classes/index.md"
