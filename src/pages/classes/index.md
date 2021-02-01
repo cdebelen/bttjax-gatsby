@@ -1,25 +1,28 @@
 ---
-templateKey: "classes-page"
+templateKey: classes-page
 path: /classes
 title: Classes
 ---
+### Adult BJJ
 
-### Shade-grown coffee
+The BTT Jax Adult Program is designed to teach beginners the fundamentals of Brazilian Jiu-Jitsu, and to help develop experienced practitioners become more well rounded martial artists. Because BJJ is a complex art, understanding and mastering the basics is the cornerstone of any student's success. We offer BJJ in Gi (Traditional Uniform) and No-Gi.
 
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+The Fundamentals Program is designed to introduce beginners to the basics of standing and ground grappling, and to provide a solid foundation of Brazilian jiu-jitsu's sport and self-defense aspects. A typical class includes a thorough warm-up followed by technical instruction and drilling intended to hone in on very specific fundamental positions and strategies.
 
-### Single origin
+The Advanced Program explores a broader range of techniques and positions, still building off of BJJ's core fundamentals. In addition to teaching more complex grappling, throwing, clinching and submission techniques, these classes incorporate more drilling and sparring, while maintaining a safe, controlled, training environment.
 
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Whether you are a beginner or experienced grappler, in your teens or an adult, our BJJ classes are great for self-defense and sport for both recreational purposes and a serious competitive edge. Benefits include gained confidence and a sense of discipline, as well as a regimented training program you can depend on, a total body workout, increased fitness levels and weight loss.
 
-### Sustainable farming
+### Muay Thai
 
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Students learn traditional Muay Thai striking, defense and footwork, then incorporate them in timed rounds with a partner. 
 
-### Direct sourcing
+Muay Thai is a form of hard martial art practiced in large parts of the world, including Thailand and other Southeast Asian countries. The art is similar to others in Southeast Asia such as pradal serey in Cambodia, Lethwal in Myanmar, Tomol in Malaysia, and Lao boxing in Laos. Muay Thai has a long histoy in Thailand and is the country's national sport. Traditional Muay Thai practiced today varies significantly from the ancient art Muay Boran and uses kicks and punches in a ring with gloves similar to those used in Western boxing.
 
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Youth BJJ
 
-### Reinvest profits
+Our Youth Brazilian Jiu Jitsu Program is designed for kids and teenagers ages 4-15. We teach self defense techniques through a combination of skill building games, physical conditioning, and mental preparation. Our students not only improve their coordination, agility, and flexibility, they also develop important character traits and values. The confidence they obtain while learning BJJ ultimately helps them perform better in academics, become more outgoing in social settings, and set higher goals for their future. Most importantly, they have fun with great instructors and friends.
 
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+There are many martial arts to choose from, but in our opinion, Brazilian Jiu Jitsu is the most effective and best suited for a child to learn. BJJ techniques are based on leverage and technique. It is a system designed to help a smaller person defeat a larger opponent, which makes it a perfect fit for kids. Our youth students learn how to stay calm in hostile situations. We first teach them to avoid a confrontation if at all possible. But if it isn't, they will know how to engage an opponent, control the situation, and create an opportunity to end a fight without permanent damage to themselves or their opponent. Keeping hold of an aggressor and making them give up is much more humane than giving them a black eye, while potentially hurting your hand in the process.
+
+Please check our schedule for classes!
