@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Brazilian Top Team Jacksonville
 image: /img/bttjax-promotion-2021.jpg
-heading: World Class Brazilian Jiu Jitsu
+heading: Learn from the best...
 subheading: Professor Marcello Bergo, 4th Degree Black Belt
 mainpitch:
   title: Northeast Florida's Premier Brazilian Jiu Jitsu Academy
@@ -10,10 +10,14 @@ mainpitch:
     personal goals. Whether your intention is to learn self-defense, become a
     successful competitor in the martial arts, or simply to get in shape in a
     fun way, we can help you.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: Marcello "Salazar" Bergo is a world champion 4th Degree Black under
+  Murilo Bustamante and a representative of Brazilian Top Team. He has competed
+  and won at the highest levels of BJJ, Submission Grappling, Freestyle and
+  Greco-Roman wrestling, and mixed martial arts. More importantly, he is an even
+  better instructor. Marcello has brought his technical knowledge and experience
+  to Jacksonville Fl. His aim is to produce the most successful BJJ program in
+  the area. He is committed to teaching his students everything he knows about
+  BJJ and strives to do so in a family oriented environment.
 intro:
   blurbs:
     - image: /img/coffee.png
